@@ -3,8 +3,8 @@
 ## Aim :
 To write a PYTHON program for socket for HTTP for web page upload and download.
 
-### NAME: KARTHIKEYAN R
-### REG.NO: 212222240046
+### NAME: MUKESH
+### REG.NO: 212223230128
 
 ## Algorithm :
 
